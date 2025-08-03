@@ -7,6 +7,10 @@ tags:
   - atatürk
   - altı ok
   - ilkeler
+header:
+  image: assets/images/6ok.png
+  caption: "Kemalizm ilkelerini temsil eden 6 ok"
+  teaser: assets/images/6ok.png
 excerpt: "Kemalizm'in altı temel ilkesi ve günümüzdeki anlamları"
 ---
 
