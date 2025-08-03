@@ -10,7 +10,7 @@ tags:
 header:
   image: assets/images/6ok.jpg
   caption: "Kemalizm ilkelerini temsil eden 6 ok"
-  teaser: assets/images/6ok.jpg
+  teaser: /assets/images/6ok.jpg
 excerpt: "Kemalizm'in altı temel ilkesi ve günümüzdeki anlamları"
 ---
 
