@@ -8,7 +8,7 @@ description: "Kemalizm ve Atatürk ilkeleri hakkında bilimsel makaleler ve anal
 url: "https://kemalistlerbirligi.github.io"
 baseurl: ""
 repository: "kemalistlerbirligi/kemalistlerbirligi.github.io"
-teaser: # path of fallback teaser image
+teaser: /assets/images/6ok.jpg
 logo: # path of logo image to display in the masthead
 masthead_title: # overrides the website title displayed in the masthead
 
